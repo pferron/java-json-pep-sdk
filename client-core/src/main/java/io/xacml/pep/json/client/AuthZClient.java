@@ -6,7 +6,7 @@ import io.xacml.json.model.Result;
 import io.xacml.json.model.SingleResponse;
 
 import java.util.Collections;
-
+/** Test for checkruns with Mend **/
 
 /**
  * Interface defining the usage of the AuthZClient
